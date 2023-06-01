@@ -1,0 +1,10 @@
+C:\Users\Zuwa\source\repos\TrackerPacketQuality\TrackerPacketQuality\bin\Debug\TrackerPacketQuality.exe.config
+C:\Users\Zuwa\source\repos\TrackerPacketQuality\TrackerPacketQuality\bin\Debug\TrackerPacketQuality.exe
+C:\Users\Zuwa\source\repos\TrackerPacketQuality\TrackerPacketQuality\bin\Debug\TrackerPacketQuality.pdb
+C:\Users\Zuwa\source\repos\TrackerPacketQuality\TrackerPacketQuality\bin\Debug\HidLibrary.dll
+C:\Users\Zuwa\source\repos\TrackerPacketQuality\TrackerPacketQuality\bin\Debug\HidLibrary.pdb
+C:\Users\Zuwa\source\repos\TrackerPacketQuality\TrackerPacketQuality\obj\Debug\TrackerPacketQuality.csproj.AssemblyReference.cache
+C:\Users\Zuwa\source\repos\TrackerPacketQuality\TrackerPacketQuality\obj\Debug\TrackerPacketQuality.csproj.CoreCompileInputs.cache
+C:\Users\Zuwa\source\repos\TrackerPacketQuality\TrackerPacketQuality\obj\Debug\TrackerPacketQuality.csproj.CopyComplete
+C:\Users\Zuwa\source\repos\TrackerPacketQuality\TrackerPacketQuality\obj\Debug\TrackerPacketQuality.exe
+C:\Users\Zuwa\source\repos\TrackerPacketQuality\TrackerPacketQuality\obj\Debug\TrackerPacketQuality.pdb
