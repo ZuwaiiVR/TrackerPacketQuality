@@ -20,6 +20,7 @@ namespace TrackerPacketQuality
 
         static void Main(string[] args)
         {
+            Console.WriteLine("TrackerPacketQuality V0.1a by Zuwaii.\n\n");
             var devices = HidDevices.Enumerate(Vid_valve);
             List<HidDevice> _hidDev = new List<HidDevice>();
             _hidDev = devices.ToList();
